@@ -12,6 +12,12 @@
             "userId": "rohit",
             "email": "rrajak7499@gmail.com",
             "password": "Rohit@20"
+        },
+        {
+            "id": 2,
+            "userId": "Testing",
+            "email": "testing@gmail.com",
+            "password": "Test@2024"
         }
     ]
 }
